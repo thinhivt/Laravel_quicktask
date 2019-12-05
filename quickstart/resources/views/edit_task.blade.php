@@ -19,7 +19,7 @@
                         {{ csrf_field() }}
                         {{ method_field('PUT') }}
 
-                        <!-- Task Name -->
+                        <!-- Change Task Name -->
                         <div class="form-group">
                             <label for="task-name" class="col-sm-3 control-label">Task</label>
 
